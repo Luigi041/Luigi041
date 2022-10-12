@@ -24,3 +24,8 @@ Sou Luigi Guido Bavaresco, tenho 18 anos, estou iniciando minha carreira como pr
 <a href = "https://discord.gg/w8hwRYJ4Zv"><img src="https://img.shields.io/discord/948978441217245184?color=%232e3135&label=%20&logo=discord&logoColor=%23ffffff&style=for-the-badge" style="border-radius: 5px;" target="_blank"></a>
 </div>
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luigi041&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luigi041&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
